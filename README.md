@@ -52,7 +52,7 @@ pip install streamlit transformers
 
 ```bash
 streamlit run Task1_Text_Summarizer.py
-
+```
 ## 🧪 Example
 
 ### Input:
