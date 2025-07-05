@@ -34,7 +34,7 @@ Task1_Text_Summarizer/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/CodTech-AI-Internship.git
+git clone https://github.com/galaxy00-7/CodTech-AI-Internship.git
 cd CodTech-AI-Internship/Task1_Text_Summarizer
 ```
 
